@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "267791838514",
+    "firebase_url": "https://metla-messanger-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "metla-messanger",
+    "storage_bucket": "metla-messanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267791838514:android:d522092cad8b4707ccbb2b",
+        "android_client_info": {
+          "package_name": "com.example.metlamessanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-HedZcSOhFcuTGHpT-mlRpAraRqTmRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
